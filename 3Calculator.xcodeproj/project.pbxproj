@@ -411,6 +411,7 @@
 				B5AC9D011B0D3CE100CC6CBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B5AC9D021B0D3CE100CC6CBA /* Build configuration list for PBXNativeTarget "3CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				B5AC9D041B0D3CE100CC6CBA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
